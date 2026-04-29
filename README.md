@@ -25,4 +25,4 @@ Legal counsel: DAX40 · Big Four · own practice since 2017
 💼 [LinkedIn](https://www.linkedin.com/in/vhinrichsmeyer/)
 
 ## Legal Information
-<a href="https://hinrichsmeyer.eu/impressum>Impressum</a>
+[Impressum] (https://hinrichsmeyer.eu/impressum)
