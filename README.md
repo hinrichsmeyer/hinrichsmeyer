@@ -1,18 +1,12 @@
-# Volkmar Hinrichsmeyer, LL.M.
-**Lawyer · Data Law · AI Regulation · Legal Automation**
+# Hey, I'm Volkmar 👋
 
-German-qualified lawyer with an additional Dutch law degree, based in Münsterland (near the Dutch border).
-I work at the frontier where law meets technology — focusing on European data law, 
-AI regulation, and the automation of legal processes.
+Lawyer by training, tech enthusiast by choice, part-time developer by consequence.
 
----
+I work in the field of **Data Law**, **AI Regulation**, and **Legal Automation** —
+which basically means I spend my days figuring out how to make IT compliant with EU regulation,
+and my nights automating the parts of law that shouldn't need a human.
 
-## What I do
-
-- 🛡️ **Data Law** — GDPR, Data Act
-- 🤖 **AI Regulation** — EU AI Act
-- ⚙️ **Legal Automation** — build with Sharepoint and various open source projects
-- 🎓 **Training** — courses among others via TÜV NORD Akademie
+Always happy to connect, learn, and train.
 
 ---
 
@@ -20,17 +14,15 @@ AI regulation, and the automation of legal processes.
 
 IAPP certified: **CIPP/E · CIPP/US · CIPT · CIPM · FIP**
 Microsoft Certified Application Developer
-Legal counsel experience: DAX40 · Big Four · own practice since 2017
+Legal counsel: DAX40 · Big Four · own practice since 2017
 
 ---
 
-## How to reach me
+## Find me
 
-📧 hi@hinrichsmeyer.eu  
-🔗 [hinrichsmeyer.eu](https://hinrichsmeyer.eu)  
+📧 [hi@hinrichsmeyer.eu](mailto:hi@hinrichsmeyer.eu)
+🔗 [hinrichsmeyer.eu](https://hinrichsmeyer.eu)
 💼 [LinkedIn](https://www.linkedin.com/in/vhinrichsmeyer/)
 
-## Legal
-<a href="https://hinrichsmeyer.eu/impressum/">Impressum</a>
-
-
+## Legal Information
+<a href="https://hinrichsmeyer.eu/impressum>Impressum</a>
